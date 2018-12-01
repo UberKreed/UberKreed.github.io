@@ -1,0 +1,112 @@
+body{
+	background-image: url(images/white-wood-desk-1153334.jpg);
+	max-height: 1080px;
+	background-size: 100%;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	padding: 0;
+	margin: 0;
+}
+
+.image-logotip{
+	max-height: 25%;
+	max-width: 25%;
+	padding-left: 50px;
+	margin: 0px;
+}
+
+.table-head{
+	border-color: red;
+}
+
+A{
+	text-decoration: none;
+	color: #000000;
+}
+
+.td-logotip{
+	width: 43%;
+}
+
+.td-vkladki{
+}
+
+.h3-info{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	float: left;
+	padding-left: 50px;
+	margin: 0px;
+}
+
+.h1-name{
+	float: left;
+	padding-left: 50px;
+}
+
+.video{
+	max-width: 500px;
+	max-height: 350px;
+	float: right;
+	padding-right: 50px;
+  margin: 0px;
+}
+
+.BUY{
+	padding: 10px;
+	width: 13%;
+	background: black;
+	color: #FFFFFF;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	transition: 0.5s;
+	font-family: "Courier New", Courier, monospace;
+	letter-spacing: 3px;
+}
+
+.BUY:hover{
+	background-color: #3F3F3F;
+	color: #FFFFFF;
+}
+
+.div-knopka-1{
+	padding-left: 50px;
+	padding-top: 215px;
+}
+
+.div-knopka-2{
+	padding-left: 50px;
+}
+
+.h21{
+	float: left;
+}
+
+.podval{
+	background-color: #333333;
+	height: 175px;
+}
+
+.zapolnenie{
+	max-width: 1980px;
+	max-height: 500px;
+	height: 210px;
+}
+
+.td-logotip-podval{
+	width: 73%;
+}
+
+.h4-podval{
+	color: #979797;
+	padding-left: 47px;
+}
+
+.td-vkladki-podval{
+	color: #979797;
+}
+
+.image-inf{
+	float: right;
+}
